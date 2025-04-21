@@ -11,4 +11,6 @@
 
 4. How did the background-image property change the visual appeal of your webpage?
    with the bg image property the visual appeal is enhanced as now the user doesn't need to look at the blank screen, some websites have their color themes or logos.
-   
+
+
+   deploy link :  https://manas-dange.github.io/122_manas_d/
